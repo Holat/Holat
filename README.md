@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Holat
 - 👀 I’m interested in webdesign
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+
 
 <!---
 Holat/Holat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
