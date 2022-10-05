@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Holat
-- 👀 I’m interested in webdesign
-- 🌱 I’m currently learning javascript
+- 👀 I’m a web developer
+- 🌱 I’m currently learning C
 
 
 <!---
