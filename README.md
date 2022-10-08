@@ -3,8 +3,8 @@
 - 🤝 I’m looking to collaborate on a website
 - 🌱 I’m currently learning C
 
-<img src="https://github-readme-stats.vercel.app/api?username=Holat&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Holat"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Holat&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Holat&show_icons=true&theme=dark"/>
 
 <h3>Tools & Languages</h3>
 <div style="display: flex">
