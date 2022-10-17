@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Holat
 - 👀 I’m a web developer
 - 🤝 I’m looking to collaborate on a website
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C && java
 
 <h3>Tools & Languages</h3>
 <div style="display: flex">
