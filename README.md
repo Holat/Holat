@@ -2,7 +2,7 @@
 - 👀 I’m a web developer
 - 🤝 I’m looking to collaborate on a website
 - 🌱 I’m currently learning C && java
-- <a href="https://holat.github.io/portfolio/">Portfolio<a/>
+- 💼 <a href="https://holat.github.io/portfolio/">Portfolio<a/>
 
 <h3>Tools & Languages</h3>
 <div style="display: flex">
