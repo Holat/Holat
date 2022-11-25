@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Holat
 - 👀 I’m a web developer
 - 🤝 I’m looking to collaborate on a website
-- 🌱 I’m currently learning C && java
+- 🌱 I’m currently learning Python🐍 && java☕️
 - 💼 <a href="https://holat.github.io/portfolio/" target="_blank" rel="noopener noreferrer">Portfolio<a/>
 
 <h3>Tools & Languages</h3>
