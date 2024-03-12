@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Holat
 - 📱🌐 Mobile && Web
-- 🌱 I’m currently learning React && React-Native
+- 🌱 Currently working on version 2 of my portfolio
 - 💼 <a href="https://holat.github.io/portfolio/" target="_blank" rel="noopener noreferrer">Portfolio<a/>
 
 <h3>Tools & Languages</h3>
