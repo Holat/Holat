@@ -3,7 +3,7 @@
 - 💼 <a href="https://holat.github.io/portfolio/" target="_blank" rel="noopener noreferrer">Portfolio<a/>
 
 
-#🌱 Currently working on version 2 of my portfolio
+#[🌱 Currently working on version 2 of my portfolio]
 
 <h3>Tools & Languages</h3>
 <div style="display: flex">
